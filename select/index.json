@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "勝手に生きましょ",
+  "base_artist": "しぐれうい",
+  "createdAt": "2025-12-07T07:04:31.487760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勝手に生きましょ",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/01_勝手に生きましょ_しぐれうい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勝手に生きましょ",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_勝手に生きましょ_しぐれうい.txt"
+    }
+  ]
+}
